@@ -33,16 +33,6 @@ Identity added: /home/thaniteus/.ssh/id_git (icankil@gmail.com)
 thaniteus@DESKTOP-71V5RK2:~/GIT$ ssh -T git@github.com
 Hi Thanitus! You've successfully authenticated, but GitHub does not provide shell access.
 
-thaniteus@DESKTOP-71V5RK2:~/GIT/D4$ ssh -T git@github.com
-Hi Thanitus! You've successfully authenticated, but GitHub does not provide shell access.
-thaniteus@DESKTOP-71V5RK2:~/GIT/D4$ ssh-add -l -E sha256
-4096 SHA256:HPcdf6ubP5ndFl3CHJ9ptxHwha6Zwt7PMing6X83Dbk icankil@gmail.com (RSA)
-
-git remote add origin git@github.com:thaniteus/D4.git
-git config --global user.email "icankil@gmail.com"
-git config --global user.name "Thanitus"
-
-
 
 ====
 PULL 
